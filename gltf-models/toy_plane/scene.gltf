@@ -1,0 +1,333 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 220,
+      "max": [
+        9.9882974624633789,
+        3.020953893661499,
+        74.654891967773438
+      ],
+      "min": [
+        -9.9883003234863281,
+        -52.824943542480469,
+        58.784053802490234
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2640,
+      "componentType": 5126,
+      "count": 220,
+      "max": [
+        0.89103424549102783,
+        0.9986528754234314,
+        0.92792361974716187
+      ],
+      "min": [
+        -0.89103388786315918,
+        -0.6750185489654541,
+        -0.99478161334991455
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 220,
+      "max": [
+        0.99935221672058105,
+        0.99126100540161133,
+        0.95313864946365356,
+        1
+      ],
+      "min": [
+        -0.99999606609344482,
+        -0.98301255702972412,
+        -0.98148030042648315,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 220,
+      "max": [
+        0.92153501510620117,
+        0.46132698655128479
+      ],
+      "min": [
+        0.82780998945236206,
+        0.13857699930667877
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 624,
+      "max": [
+        219
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 5280,
+      "componentType": 5126,
+      "count": 33452,
+      "max": [
+        91.208450317382812,
+        110.60906219482422,
+        97.231109619140625
+      ],
+      "min": [
+        -91.208450317382812,
+        -57.907173156738281,
+        -0.67103201150894165
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 406704,
+      "componentType": 5126,
+      "count": 33452,
+      "max": [
+        1,
+        0.99994510412216187,
+        0.99998623132705688
+      ],
+      "min": [
+        -1,
+        -1,
+        -0.99998635053634644
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 3520,
+      "componentType": 5126,
+      "count": 33452,
+      "max": [
+        1,
+        0.99997842311859131,
+        0.9998587965965271,
+        1
+      ],
+      "min": [
+        -1,
+        -0.99998742341995239,
+        -0.99998164176940918,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1760,
+      "componentType": 5126,
+      "count": 33452,
+      "max": [
+        0.99230098724365234,
+        0.99219697713851929
+      ],
+      "min": [
+        0.0037450001109391451,
+        0.0037450001109391451
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 2496,
+      "componentType": 5125,
+      "count": 162744,
+      "max": [
+        33451
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Law (https://sketchfab.com/law)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/models/9b4e13700da14d31b9d923c499e18f64",
+      "title": "Toy plane"
+    },
+    "generator": "Sketchfab-3.19.2",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 653472,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 269376,
+      "byteOffset": 653472,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 808128,
+      "byteOffset": 922848,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 538752,
+      "byteOffset": 1730976,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 2269728,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/wire_224198087_baseColor.png"
+    }
+  ],
+  "materials": [
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "wire_224198087",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.59999999999999998
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3,
+        4
+      ],
+      "name": "biplane.obj.cleaner"
+    },
+    {
+      "mesh": 0,
+      "name": ""
+    },
+    {
+      "mesh": 1,
+      "name": ""
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}
+
